@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision>=0.15.0
+pillow
+numpy
+matplotlib
+scikit-learn
+pandas
+jupyterlab
+opencv-python
+flask
+fastapi
+uvicorn
